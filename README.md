@@ -1,5 +1,6 @@
 # 17-2st-shockx-backend
 ![main](https://media.giphy.com/media/BtzzDU9Urt2o5IiSLl/giphy.gif)
+
 https://www.youtube.com/watch?v=4yEd7uMqjMc
 
 '샥엑스'는 학습 목적으로 제작된 StockX 홈페이지를 클론 프로젝트입니다. 신발 리셀 중개 거래 업체 StockX 웹사이트 기본적인 기능들을 구현했습니다. 사용된 이미지는 전부 오픈 소스 이미지들 입니다. 
